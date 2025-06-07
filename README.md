@@ -1,6 +1,6 @@
 # 👋Jai Raja
 
-Hi there, I am Jai Raja, a 5th semester BS Computer Systems Engineering student at Sukkur IBA University.
+Hi there, I am Jai Raja, a 5th semester BE Computer Systems Engineering student at Sukkur IBA University.
 
 ## 📈 GitHub Stats
 
