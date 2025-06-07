@@ -1,4 +1,4 @@
-# 👋Jai Raja
+# 👋Jai Kumar
 
 Hi there, I am Jai Raja, a 5th semester BE Computer Systems Engineering student at Sukkur IBA University.
 
