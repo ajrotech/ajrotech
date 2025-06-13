@@ -14,4 +14,4 @@ Hi there, I am Jai Raja, a 5th semester BE Computer Systems Engineering student 
 
 ## 📈 Roadmap Stats
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6847e17f9d6afa3dc65c577d?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6847e17f9d6afa3dc65c577d?variant=dark)](https://roadmap.sh)
