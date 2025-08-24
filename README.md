@@ -1,6 +1,10 @@
-# 👋Jai Kumar
+👋 Hi, I’m Jai Kumar  
+🎓 Computer Systems Engineering student at Sukkur IBA University (2023–2027)  
+💻 Skilled in: C/C++, Java, Python, HTML, CSS, JavaScript, Arduino, MATLAB  
+⚡ Interests: Embedded systems, IoT, AI, and web-based automation  
+📚 Passionate about technical writing, tutoring, and open-source collaboration  
+🚀 Always learning, building, and sharing through projects like AjroTech (YouTube)  
 
-Hi there, I am Jai Raja, a 5th semester BE Computer Systems Engineering student at Sukkur IBA University.
 
 ## 📈 GitHub Stats
 
